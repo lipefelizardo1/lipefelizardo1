@@ -22,4 +22,3 @@
 <code><img width="40px" src="https://devicon-website.vercel.app/api/html5/original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://devicon-website.vercel.app/api/css3/original.svg" title = "CSS"/></code>
 
-![Snake animation](https://github.com/lipefelizardo1/lipefelizardo1/blob/output/github-contribution-grid-snake.svg)
